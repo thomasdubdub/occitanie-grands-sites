@@ -1,4 +1,4 @@
-# Inventory records of cultural heritage of the French region Occitanie
+# Visualization of grands sites of the French region Occitanie
 
 Visualization of 'grands sites' of the French region Occitanie provided as open data on the [data gouv website](https://www.data.gouv.fr/fr/datasets/5daa56aa06e3e7551e29a305/)
 
