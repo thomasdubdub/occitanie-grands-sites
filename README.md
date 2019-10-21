@@ -8,7 +8,7 @@ A 2D visualization is realized with [ipyleaflet](https://ipyleaflet.readthedocs.
 
 Example: Grands sites of Occitanie
 
-![Occitanie grands sites](grandssites.png)
+![Occitanie grands sites](grandssites.svg)
 
 ## Running the tests
 
